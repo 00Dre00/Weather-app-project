@@ -1,0 +1,24 @@
+h1 {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+h2 {
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.rain {
+  text-align: right;
+}
+.wind {
+  text-align: right;
+}
+
+ul {
+  list-style: none;
+}
+
+body {
+  background: linear-gradient(60deg, rgb(28, 168, 184), rgb(251, 255, 13));
+}
